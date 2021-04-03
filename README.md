@@ -1,2 +1,0 @@
-# SimpleRd
-my read excerpt
